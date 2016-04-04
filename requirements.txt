@@ -1,0 +1,1 @@
+-e git://github.com/cltk/capitains_corpora_converter.git#egg=capitains_corpora_converter
